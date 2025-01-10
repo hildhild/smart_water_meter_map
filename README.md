@@ -1,5 +1,6 @@
 # Smart Water Meter Map - Bản đồ Đồng hồ nước thông minh (Địa bàn: TP Hồ Chí Minh)
 Link test: https://smart-water-meter-map.vercel.app/
+Another version: https://vbc-gis.vercel.app/
 
 
 # React + Vite
